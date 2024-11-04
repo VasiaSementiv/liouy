@@ -1,0 +1,44 @@
+.pink{
+    color: pink;
+}
+.gray{
+    color: gray;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.yellow{
+    color: yellow;
+}
+
+        table{
+            border-collapse: collapse;
+        }
+        table td,
+        table tr{
+            border: 2px solid black;
+        }
+        textarea{
+            resize: none;
+        }
+        .redcol{
+            color: red;
+        }
+        .yellowcol{
+            color: yellow;
+        }
+        .blackcol{
+color: black;
+        }
+        .bluecol{
+            color: blue;
+        }
+        .greencol{
+            color: green;
+        }
+        .browncol{
+            color: brown;
+        }
